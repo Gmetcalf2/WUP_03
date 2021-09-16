@@ -61,5 +61,5 @@ The Tukey test shows that the people in the back consume the most alcohol, the p
 
 
 ## Conclusions
-
+In conclusion there is a difference based on the row you sit in for alcohol consumption rate. In this manner it shows the back of the class consumed the most being hidden compared to both the front who can be seen and middle who has a possibility.
 
