@@ -50,6 +50,16 @@ model1 <- aov(alcohol~Seat,data=davisdata)
 summary.aov(model1)
 ```
 
+
+```{r}
+plot(TukeyHSD(model1))
+```
+
+The P value is 0.00small so it concludes that we reject the $H_$0; there is a difference on alcohol consumption based on where one sits.
+
+The Tukey test shows that the people in the back consume the most alcohol, the people in the front consume the least, and the middle average out to consuming almost as much as the people in the back.
+
+
 ## Conclusions
 
 
